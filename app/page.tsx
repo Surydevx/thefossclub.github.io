@@ -958,8 +958,7 @@ export default function Home() {
                 <ul className="space-y-2 md:space-y-3 text-sm sm:text-base">
                   <li>
                     <Link
-                      href="https://github.com/thefossclub/CodeofConduct"
-                      target="_blank"
+                      href="/coc"
                       className="text-muted-foreground hover:text-green-500 dark:hover:text-green-400 transition-colors footer-link"
                     >
                       Code of Conduct
@@ -967,7 +966,7 @@ export default function Home() {
                   </li>
                   <li>
                     <Link
-                      href="https://github.com/thefossclub/Branding"
+                      href="/branding"
                       className="text-muted-foreground hover:text-green-500 dark:hover:text-green-400 transition-colors footer-link"
                     >
                       Branding
@@ -975,7 +974,7 @@ export default function Home() {
                   </li>
                   <li>
                     <Link
-                      href="https://github.com/thefossclub/whitepaper"
+                      href="/whitepaper"
                       className="text-muted-foreground hover:text-green-500 dark:hover:text-green-400 transition-colors footer-link"
                     >
                       whitepaper
@@ -983,7 +982,7 @@ export default function Home() {
                   </li>
                   <li>
                     <Link
-                      href="https://github.com/thefossclub/Resources"
+                      href="/resources"
                       className="text-muted-foreground hover:text-green-500 dark:hover:text-green-400 transition-colors footer-link"
                     >
                       Resources
